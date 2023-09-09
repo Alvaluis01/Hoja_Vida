@@ -10,13 +10,25 @@
     align-items: center;
 }
 
+.h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .contenido1{
-    /* margin-left: 50px; */
     width: 100vw;
     height: 300px;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.container {
+    max-width: 800px;   
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
 }
 
 .pieDePg{
