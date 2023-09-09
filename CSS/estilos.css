@@ -22,10 +22,12 @@
 }
 .h3{
     display: flex;
-    margin-left: calc(30.35%);
+    justify-items: left;
     align-items: center;
 }
 .contenido2{
+    margin-left: 20px;
+    margin-bottom: 40px;
     margin-top: -20px;
     justify-content: left;
 }
