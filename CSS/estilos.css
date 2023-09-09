@@ -53,7 +53,8 @@
     filter: brightness(100%);
     display: flex;
     justify-content: center;
-    align-content: left;
+    align-content: center;
+    margin-left: 200px;
 }
 .imagen2{
     /* width: 500px;
