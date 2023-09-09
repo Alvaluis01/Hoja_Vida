@@ -3,13 +3,17 @@
     padding: 0px;
 }
 .cabecera {
-    width: 100vw;
-    height: 300px;
+    width: 100vw;   
+    height: 200px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
+.h1{
+    /* display: flex; */
+    justify-content: left;
+}
 .h2{
     display: flex;
     justify-content: center;
