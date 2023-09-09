@@ -42,3 +42,39 @@
     justify-content: center;
     align-items: center;
 }
+
+.imagen{
+    width: 600px;
+    height: 400px;
+    margin: 200px;
+    border: 2px solid #000;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    filter: brightness(100%);
+    display: flex;
+    justify-content: center;
+    align-content: left;
+}
+.imagen2{
+    /* width: 500px;
+    height: 600px;
+    margin: 200px;
+    border: 2px solid #000;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    filter: brightness(100%); */
+    /* display: flex;
+    max-width: 50%; Establece el ancho máximo para que ambas imágenes quepan en la pantalla 
+    height: auto; Ajusta automáticamente la altura para mantener la proporción 
+    margin-right: 10px;
+    /* justify-content: center;
+    align-content: right; */
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 42px;
+    width: 150px;
+    height: 150px;
+    overflow-y: auto;
+    min-width: 300px;
+    margin: 10px;
+}
